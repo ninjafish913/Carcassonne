@@ -16,9 +16,9 @@ A game of carcassonne plays like this:
  
 The controls of the game are as follows:
 
- R - Rotates a tile that you are dragging
- E - Ends you pawn placing turn without placing a pawn
- W - Moves the camera up
- S - Moves the camera down
- A - Moves the camera to the left
- D - Moves the camera to the right
+ [R] Rotates a tile that you are dragging
+ [E] Ends you pawn placing turn without placing a pawn
+ [W] Moves the camera up
+ [S] Moves the camera down
+ [A] Moves the camera to the left
+ [D] Moves the camera to the right
